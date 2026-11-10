@@ -59,7 +59,7 @@ Python 3.10 or later.
 
 ```bash
 git clone <this repository>
-cd gene-family-extractor
+cd Genome_wide_PDF_extractor
 python -m pip install -r requirements.txt
 ```
 
@@ -108,7 +108,7 @@ work/
 ## Repository layout
 
 ```
-gene-family-extractor/
+Genome_wide_PDF_extractor/
 ├── codebook/extraction_codebook.md   field definitions and coding rules (v1.1)
 ├── docs/extractor_instructions.md    instructions given to the extraction model
 ├── data/tool_checklist.csv           standard tool names, synonyms and tool columns
