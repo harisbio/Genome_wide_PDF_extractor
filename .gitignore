@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# workspaces and outputs (keep data out of the repository)
+work/
+workspace*/
+*.csv
+!data/tool_checklist.csv
+
+# full texts: never commit publisher PDFs or XML
+*.pdf
+*.xml
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

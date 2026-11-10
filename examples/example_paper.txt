@@ -1,0 +1,26 @@
+===== TITLE =====
+Genome-wide identification and expression analysis of the WRKY gene family in an example crop
+===== FRONT MATTER (authors, affiliations, correspondence) =====
+A. Author, B. Author. College of Agronomy, Example Agricultural University, Wuhan, China.
+Correspondence: author@example.edu (A. Author), College of Agronomy, Example Agricultural University, Wuhan 430070, China.
+Keywords: WRKY; maize; drought
+===== ABSTRACT =====
+This is a synthetic example used only to test the extraction program. In this study, we identified 136 WRKY genes in the
+maize genome and classified them into seven groups.
+===== METHODS =====
+The genome and protein sequences of Zea mays were downloaded from Phytozome v13 for the identification of family members.
+The hidden Markov model profile of the WRKY domain (PF03106) was used to search the maize proteome with HMMER 3.0.
+BLASTP searches were also performed with an E-value cut-off of 1e-5 using Arabidopsis WRKY proteins as queries.
+The conserved domains were confirmed with SMART and the conserved motifs were identified with MEME.
+A phylogenetic tree was constructed with MEGA 7 using the neighbour-joining method with 1000 bootstrap replicates.
+Collinearity and duplication events were analysed with MCScanX and visualised with TBtools.
+Physicochemical properties were predicted with ExPASy ProtParam and subcellular localization with WoLF PSORT.
+Gene structures were displayed with GSDS, and promoter cis-elements were predicted with PlantCARE.
+Multiple sequence alignment was performed with ClustalW.
+Expression profiles were obtained from publicly available RNA-seq data of maize tissues and drought treatments.
+The expression of selected genes under drought stress was validated by qRT-PCR.
+===== RESULTS =====
+A total of 136 ZmWRKY genes were identified in the maize genome.
+The phylogenetic tree divided the ZmWRKY proteins into seven groups (I, IIa, IIb, IIc, IId, IIe and III).
+Both segmental and tandem duplication events contributed to the expansion of the ZmWRKY family.
+Arabidopsis thaliana and Oryza sativa WRKY proteins were included in the phylogenetic tree for comparison.

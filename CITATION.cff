@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the associated article."
+title: "gene-family-extractor: evidence-backed data extraction from genome-wide gene family papers"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+authors:
+  - family-names: Haris
+    given-names: Muhammad
+  - family-names: Azeem
+    given-names: Farrukh
+  - family-names: Golokhvast
+    given-names: Kirill Sergeevich
+  - family-names: Nawaz
+    given-names: Muhammad Amjad
+keywords:
+  - systematic review
+  - data extraction
+  - gene family
+  - genome-wide analysis
+  - plant genomics

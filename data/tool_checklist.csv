@@ -1,0 +1,520 @@
+﻿tool,key,papers,field,variants
+Pfam,pfam,152,Domain,PFAM | Pfam | Pfam tools
+InterProScan,interproscan,29,Domain,INTERPROSCAN | InterPro Scan Program | InterProScan
+InterPro,interpro,25,Domain,InterPro
+PROSITE,prosite,11,Domain,PROSITE
+ScanProsite,scanprosite,7,Domain,ExPASy ScanProsite | Scan Prosite | ScanPROSITE | ScanProsite | ScanProsite Server
+MOTIFSCAN,motifscan,4,Domain,MOTIFSCAN | Motif scan
+Calmodulin Target Database,calmodulintarget,1,Domain,Calmodulin Target Database
+MOTIF Search,motifsearch,1,Domain,MOTIF Search
+Motif finder,motiffinder,1,Domain,Motif finder
+HMMscan,hmmscan,1,Domain,HMMscan
+ExPASy,expasy,199,Methodology,Compute pI | ExPASy | ExPASy Compute pI | ExPASy Server | ExPASy- Compute pI | ExPASy-Compute pI | ExPASy-ProtParam | ExPASyProtParam | ProtParam | ProtParam tool
+PlantCARE,plantcare,192,Methodology,PLANTCARE | Plant CARE | Plant Care | PlantCARE | PlantCARE online program | PlantCare | PlantCare database | Plantcare database | plantCARE
+WoLF PSORT,wolfpsort,106,Methodology,PSORT | Psort | WOLF-PSORT | WOLFPSORT | WoLF PSORT | WoLFPSORT | Wolfpsort | pSORT
+ClustalW,clustalw,82,Methodology,CLUSTAL | CLUSTALW | Clustal W | Clustal-W | ClustalW | ClustalW2 | Clustalw
+STRING,string,74,Methodology,STRING | STRING database | STRING software | STRINGdb | String
+ClustalX,clustalx,53,Methodology,CLUSTALX | Clustal X | Clustal-X | ClustalX | ClustalX2
+CELLO,cello,36,Methodology,CELLO
+psRNATarget,psrnatarget,35,Methodology,pSRNATarget software | psRNA Target | psRNA Target Server | psRNA-Target database | psRNATarget | psRNATarget Server | psRNATarget server | psRNAtarget
+MUSCLE,muscle,32,Methodology,MUSCLE | Muscle
+Clustal Omega,clustalomega,32,Methodology,CLUSTAL Omega | Clustal Omega
+Plant-mPLoc,plantmploc,30,Methodology,Plant Ploc | Plant mPLoc | Plant-Ploc | Plant-mPLoc | Plant-mPLoc server | Plant-mPloc
+Blast2GO,blast2go,25,Methodology,BLAST2GO | Blast2GO | Blast2Go
+PLACE,place,23,Methodology,New PLACE | PLACE | PLACE database
+SWISS-MODEL,swissmodel,23,Methodology,SWISS MODEL | SWISS-MODEL | Swiss-Model | Swiss-Model server
+DnaSP,dnasp,21,Methodology,DnaSP | Dnasp
+Phyre2,phyre2,21,Methodology,PHYRE2 | Phyre2 | Phyre2 server | Phyre²
+TMHMM,tmhmm,20,Methodology,TMHMM | TMHMM Server | TMHMM server
+GraphPad Prism,graphpadprism,19,Methodology,GraphPad Prism | GraphPad Prism software | Prism software
+HISAT2,hisat2,18,Methodology,HISAT2 | Hisat2 | hisat2
+Cufflinks,cufflinks,17,Methodology,Cufflinks | cufflinks
+PAL2NAL,pal2nal,17,Methodology,PAL2NAL | PAL2NAL program
+MAFFT,mafft,16,Methodology,MAFFT | Mafft
+TargetP,targetp,15,Methodology,TargetP | TargetP Server
+SPSS,spss,14,Methodology,IBM SPSS Statistics | SPSS | SPSS software
+WebLogo,weblogo,14,Methodology,WEBLOGO | WebLogo | Weblogo
+BioEdit,bioedit,13,Methodology,BioEdit | Bioedit
+PAML,paml,12,Methodology,PAML | PAML package
+SOPMA,sopma,12,Methodology,SOPMA
+I-TASSER,itasser,12,Methodology,I-TASSER | I-TASSER server | I-Tasser | i-Tasser | iTasser
+DNAMAN,dnaman,11,Methodology,DNAMAN | DNAMAN software
+KaKs_Calculator,kakscalculator,11,Methodology,KaKs Calculator | KaKs_Calculator
+eggNOG-mapper,eggnogmapper,10,Methodology,EggNOG | EggNOG-mapper | Eggnog | eggNOG-mapper
+BUSCA,busca,10,Methodology,BUSCA
+Primer3,primer3,10,Methodology,Primer3 | Primer3 online program | Primer3 software
+ProtComp,protcomp,10,Methodology,ProtComp
+Primer Premier,primerpremier,9,Methodology,Primer Premier
+DESeq2,deseq2,8,Methodology,DESeq R package | DESeq2
+AgriGO,agrigo,8,Methodology,AgriGO | agriGO
+FGENESH,fgenesh,8,Methodology,FGENESH
+Bowtie2,bowtie2,7,Methodology,Bowtie | Bowtie2
+featureCounts,featurecounts,7,Methodology,featureCounts
+CLC Genomics Workbench,clcgenomicsworkbench,7,Methodology,CLC Genomics Workbench | CLC genomics workbench
+StringTie,stringtie,7,Methodology,STRINGTIE | StringTie | Stringtie
+TopHat2,tophat2,6,Methodology,TopHat | TopHat2 | Tophat2
+GeneDoc,genedoc,6,Methodology,GeneDoc | Genedoc
+KEGG,kegg,6,Methodology,KEGG
+ChloroP,chlorop,5,Methodology,ChloroP
+Geneious,geneious,5,Methodology,Geneious | Geneious Prime
+GENSCAN,genscan,5,Methodology,GENSCAN
+RSEM,rsem,5,Methodology,RSEM | RSEM program
+Softberry,softberry,5,Methodology,SoftBerry | Softberry | softberry
+DeepLoc,deeploc,5,Methodology,DeepLoc | Deeploc
+Primer 5,primer,4,Methodology,Primer 3 | Primer 5
+UCSF Chimera,ucsfchimera,4,Methodology,UCSF CHIMERA | UCSF Chimera
+ORF Finder,orffinder,4,Methodology,ORF Finder | ORF finder
+FastQC,fastqc,4,Methodology,FASTQC | FastQC
+Trimmomatic,trimmomatic,4,Methodology,Trimmomatic
+KOBAS,kobas,3,Methodology,KOBAS
+cNLS Mapper,cnlsmapper,3,Methodology,cNLS Mapper | cNLS mapper
+Heatster,heatster,3,Methodology,Heatster
+BaCelLo,bacello,3,Methodology,BaCelLo | BaCellO
+NetNGlyc,netnglyc,3,Methodology,NetNGlyc
+geNorm,genorm,3,Methodology,geNorm
+NUCPRED,nucpred,3,Methodology,NUCPRED
+Boxshade,boxshade,3,Methodology,BOXSHADE | Boxshade
+OmicsBox,omicsbox,3,Methodology,OmicsBox
+Cell-PLoc,cellploc,3,Methodology,Cell-PLoc
+WEGO,wego,3,Methodology,WEGO | WeGo
+Galaxy,galaxy,3,Methodology,Galaxy
+NetOGlyc,netoglyc,3,Methodology,NetOGlyc
+FASTX-toolkit,fastxtoolkit,3,Methodology,FASTX-toolkit | Fastx-toolkit
+CIMMiner,cimminer,3,Methodology,CIMMiner
+Gblocks,gblocks,3,Methodology,GBLOCKS | Gblocks
+OrthoFinder,orthofinder,3,Methodology,OrthoFinder | Orthofinder
+BioXM,bioxm,3,Methodology,BioXM
+EdgeR,edger,3,Methodology,EdgeR | edgeR
+DIAMOND,diamond,2,Methodology,DIAMOND
+NetNES,netnes,2,Methodology,NetNES
+CASTp,castp,2,Methodology,CASTp
+PANNZER2,pannzer2,2,Methodology,PANNZER2
+BlastKOALA,blastkoala,2,Methodology,BlastKOALA
+Beacon Designer,beacondesigner,2,Methodology,Beacon Designer
+CELLO2GO,cello2go,2,Methodology,CELLO2GO
+PAMLX,pamlx,2,Methodology,PAMLX
+Neural Network Promoter Prediction,neuralnetworkpromoterprediction,2,Methodology,Neural Network Promoter Prediction
+DNAstar,dnastar,2,Methodology,DNASTAR | DNAstar
+IBS,ibs,2,Methodology,IBS
+PatchDock,patchdock,2,Methodology,PatchDock | PatchDock server
+iTAK,itak,2,Methodology,iTAK
+Phylogeny.fr,phylogenyfr,2,Methodology,Phylogeny.fr
+Spidey,spidey,2,Methodology,Spidey
+Pathway Studio,pathwaystudio,2,Methodology,Pathway Studio
+Samtools,samtools,2,Methodology,Samtools
+Primer3Plus,primer3plus,2,Methodology,Primer3Plus
+Yloc,yloc,2,Methodology,YLoc | Yloc
+Kallisto,kallisto,2,Methodology,Kallisto
+ModelFinder,modelfinder,2,Methodology,ModelFinder
+FastTree,fasttree,2,Methodology,FastTree
+CSS-Plam,cssplam,2,Methodology,CSS-Plam | CSS-plam
+Origin,origin,2,Methodology,Origin
+MrBayes,mrbayes,2,Methodology,MrBayes
+ProtTest,prottest,2,Methodology,ProtTest
+FAST-ML,fastml,2,Methodology,FAST-ML
+HCE,hce,2,Methodology,HCE
+SAVES,saves,2,Methodology,SAVES | SAVES server
+PubChem,pubchem,2,Methodology,PubChem
+Oligo Calculator,oligocalculator,2,Methodology,Oligo Calculator
+EVenn,evenn,2,Methodology,EVenn
+fastp,fastp,2,Methodology,fastp
+Discovery Studio,discoverystudio,2,Methodology,Discovery Studio
+AutoDock Vina,autodockvina,2,Methodology,AutoDock Vina
+Heatmapper online tool,heatmapper,2,Methodology,Heatmapper | Heatmapper online tool
+SNAP,snap,2,Methodology,SNAP
+ExPASy MW,expasymw,1,Methodology,ExPASy MW
+pl,pl,1,Methodology,pl
+IMter server,imter,1,Methodology,IMter server
+PTRM,ptrm,1,Methodology,PTRM
+OrthoVenn,orthovenn,1,Methodology,OrthoVenn
+NPDock,npdock,1,Methodology,NPDock
+PANTHER,panther,1,Methodology,PANTHER
+Vector NTI,vectornti,1,Methodology,Vector NTI
+VADAR,vadar,1,Methodology,VADAR
+SOSUI,sosui,1,Methodology,SOSUI
+OligoCalc,oligocalc,1,Methodology,OligoCalc
+Plant Subcellular Localization Integrator - PSI,plantsubcellularlocalizationintegratorpsi,1,Methodology,Plant Subcellular Localization Integrator - PSI
+ExPASy-Prot Param website,expasyprotparamwebsite,1,Methodology,ExPASy-Prot Param website
+KOD FX Neo,kodfxneo,1,Methodology,KOD FX Neo
+pFGC-eGFP,pfgcegfp,1,Methodology,pFGC-eGFP
+yeast two-hybrid,yeasttwohybrid,1,Methodology,yeast two-hybrid
+BRAD synteny tool,bradsynteny,1,Methodology,BRAD synteny tool
+NormFinder,normfinder,1,Methodology,NormFinder
+pOTB vector,potbvector,1,Methodology,pOTB vector
+Agrobacterium tumefaciens EHA105,agrobacteriumtumefacienseha105,1,Methodology,Agrobacterium tumefaciens EHA105
+Nikon digital camera,nikondigitalcamera,1,Methodology,Nikon digital camera
+Olympus IX51 inverted microscope,olympusix51invertedmicroscope,1,Methodology,Olympus IX51 inverted microscope
+Nile Red,nilered,1,Methodology,Nile Red
+PSS NiComp 380ZLS,pssnicomp380zls,1,Methodology,PSS NiComp 380ZLS
+Student t-test,studentttest,1,Methodology,Student t-test
+RNAiso TM Plus,rnaisotmplus,1,Methodology,RNAiso TM Plus
+Adobe_Photoshop_CS6,adobephotoshopcs6,1,Methodology,Adobe_Photoshop_CS6
+RACE,race,1,Methodology,RACE
+TMMOD,tmmod,1,Methodology,TMMOD
+Multalin software,multalin,1,Methodology,Multalin software
+mensat-svm,mensatsvm,1,Methodology,mensat-svm
+MAFT,maft,1,Methodology,MAFT
+NBT staining,nbtstaining,1,Methodology,NBT staining
+DAB staining,dabstaining,1,Methodology,DAB staining
+BioLayout Express 3D,biolayoutexpress3d,1,Methodology,BioLayout Express 3D
+CPHModels,cphmodels,1,Methodology,CPHModels
+CTAB procedure,ctabprocedure,1,Methodology,CTAB procedure
+TransScriptTM One-step gDNA Removal,transscripttmonestepgdnaremoval,1,Methodology,TransScriptTM One-step gDNA Removal
+Beacon Designers,beacondesigners,1,Methodology,Beacon Designers
+CFX96 real-time system,cfx96realtimesystem,1,Methodology,CFX96 real-time system
+ProtFun,protfun,1,Methodology,ProtFun
+dbCAN pipeline,dbcanpipeline,1,Methodology,dbCAN pipeline
+Primerquest,primerquest,1,Methodology,Primerquest
+LinRegPCR,linregpcr,1,Methodology,LinRegPCR
+REVIGO,revigo,1,Methodology,REVIGO
+IDT PrimerQuest,idtprimerquest,1,Methodology,IDT PrimerQuest
+CFX96 instrument,cfx96instrument,1,Methodology,CFX96 instrument
+BAR Heatmapper Plus,barheatmapperplus,1,Methodology,BAR Heatmapper Plus
+PSIPRED,psipred,1,Methodology,PSIPRED
+LocTree3,loctree3,1,Methodology,LocTree3
+RTRIP,rtrip,1,Methodology,RTRIP
+ESPript3.0,espript3,1,Methodology,ESPript3.0
+PerlPrimer,perlprimer,1,Methodology,PerlPrimer
+CTAB RNA extraction,ctabrnaextraction,1,Methodology,CTAB RNA extraction
+Primer Express software,primerexpress,1,Methodology,Primer Express software
+FGENESH-C,fgeneshc,1,Methodology,FGENESH-C
+BEAST,beast,1,Methodology,BEAST
+SigmaPlot,sigmaplot,1,Methodology,SigmaPlot
+various online servers for physicochemical properties,variousserversforphysicochemicalproperties,1,Methodology,various online servers for physicochemical properties
+EMBL Clustal Omega,emblclustalomega,1,Methodology,EMBL Clustal Omega
+pENTR,pentr,1,Methodology,pENTR
+D-TOPO vector,dtopovector,1,Methodology,D-TOPO vector
+16318GFP vector,16318gfpvector,1,Methodology,16318GFP vector
+laser confocal fluorescence microscopy,laserconfocalfluorescencemicroscopy,1,Methodology,laser confocal fluorescence microscopy
+pGBKT7 vector,pgbkt7vector,1,Methodology,pGBKT7 vector
+pGADT7 vector,pgadt7vector,1,Methodology,pGADT7 vector
+pB7WG2,pb7wg2,1,Methodology,pB7WG2
+Agrobacterium-mediated transformation,agrobacteriummediatedtransformation,1,Methodology,Agrobacterium-mediated transformation
+NGS QC Toolkit,ngsqctoolkit,1,Methodology,NGS QC Toolkit
+GOseq R packages,goseqrpackages,1,Methodology,GOseq R packages
+RAxML-NG,raxmlng,1,Methodology,RAxML-NG
+CD- hit program,cdhit,1,Methodology,CD- hit program
+Seqboot,seqboot,1,Methodology,Seqboot
+Sequence Manipulation Suite,sequencemanipulation,1,Methodology,Sequence Manipulation Suite
+EuLoc,euloc,1,Methodology,EuLoc
+ExPASy online website,expasywebsite,1,Methodology,ExPASy online website
+PlantCare website,plantcarewebsite,1,Methodology,PlantCare website
+Myristylator,myristylator,1,Methodology,Myristylator
+Expsay,expsay,1,Methodology,Expsay
+HeatmapGenerator,heatmapgenerator,1,Methodology,HeatmapGenerator
+Affymetrix soybean IVT array,affymetrixsoybeanivtarray,1,Methodology,Affymetrix soybean IVT array
+"R package ""pheatmap""",rpheatmap,1,Methodology,"R package ""pheatmap"""
+Barley stripe mosaic virus  system,barleystripemosaicvirussystem,1,Methodology,Barley stripe mosaic virus  system
+PhyML,phyml,1,Methodology,PhyML
+GCRMA,gcrma,1,Methodology,GCRMA
+2^-??Ct method,ctmethod,1,Methodology,2^-??Ct method
+Protoparam,protoparam,1,Methodology,Protoparam
+LightCycler96,lightcycler96,1,Methodology,LightCycler96
+MINITAB,minitab,1,Methodology,MINITAB
+ClustalQ,clustalq,1,Methodology,ClustalQ
+ExPASy-ProtParamtool,expasyprotparamtool,1,Methodology,ExPASy-ProtParamtool
+ClustalX multiple alignment program,clustalxmultiplealignment,1,Methodology,ClustalX multiple alignment program
+Subcellular localization,subcellularlocalization,1,Methodology,Subcellular localization
+Plant transformation,planttransformation,1,Methodology,Plant transformation
+Perl-based script,perlbasedscript,1,Methodology,Perl-based script
+pBIN vector,pbinvector,1,Methodology,pBIN vector
+Gal4-based two-hybrid system,gal4basedtwohybridsystem,1,Methodology,Gal4-based two-hybrid system
+Localizer,localizer,1,Methodology,Localizer
+MusiteDeep,musitedeep,1,Methodology,MusiteDeep
+SWISSPROT,swissprot,1,Methodology,SWISSPROT
+Plant-mPLoc & WoLF PSORT,plantmplocwolfpsort,1,Methodology,Plant-mPLoc & WoLF PSORT
+CFX96 TouchTM Real-Time PCR Detection System,cfx96touchtmrealtimepcrdetectionsystem,1,Methodology,CFX96 TouchTM Real-Time PCR Detection System
+Student's t-test,studentsttest,1,Methodology,Student's t-test
+uORFlight,uorflight,1,Methodology,uORFlight
+Eggnog & WEGO,eggnogwego,1,Methodology,Eggnog & WEGO
+WegoLoc,wegoloc,1,Methodology,WegoLoc
+Custom R scripts,customrscripts,1,Methodology,Custom R scripts
+'Biostrings' R package,biostringsr,1,Methodology,'Biostrings' R package
+MFOLD,mfold,1,Methodology,MFOLD
+Psort-Prediction,psortprediction,1,Methodology,Psort-Prediction
+R package clusterProfiler,rclusterprofiler,1,Methodology,R package clusterProfiler
+Omicshare Tools,omicshare,1,Methodology,Omicshare Tools
+Gpos-mPLoc,gposmploc,1,Methodology,Gpos-mPLoc
+TASSEL,tassel,1,Methodology,TASSEL
+UPLC-MS,uplcms,1,Methodology,UPLC-MS
+MS,ms,1,Methodology,MS
+MGLTools,mgltools,1,Methodology,MGLTools
+Web SSR Finder,ssrfinder,1,Methodology,Web SSR Finder
+Refinder program,refinder,1,Methodology,Refinder program
+HMM profiling,hmmprofiling,1,Methodology,HMM profiling
+ExPASy ProtoParam,expasyprotoparam,1,Methodology,ExPASy ProtoParam
+Proteins Plus,proteinsplus,1,Methodology,Proteins Plus
+Galaxy Bowtie2,galaxybowtie2,1,Methodology,Galaxy Bowtie2
+SAMtools faidex,samtoolsfaidex,1,Methodology,SAMtools faidex
+MEGALIGN software,megalign,1,Methodology,MEGALIGN software
+ESyPred3D Web Server,esypred3d,1,Methodology,ESyPred3D Web Server
+WGMapping program,wgmapping,1,Methodology,WGMapping program
+FastPCR Professional,fastpcrprofessional,1,Methodology,FastPCR Professional
+Primer 3 Plus,primerplus,1,Methodology,Primer 3 Plus
+DNAAtools,dnaatools,1,Methodology,DNAAtools
+NetSurfP,netsurfp,1,Methodology,NetSurfP
+Primer design for qPCR,primerdesignforqpcr,1,Methodology,Primer design for qPCR
+Predator,predator,1,Methodology,Predator
+MultiLoc,multiloc,1,Methodology,MultiLoc
+Htseq,htseq,1,Methodology,Htseq
+Primer3 for primer design,primer3forprimerdesign,1,Methodology,Primer3 for primer design
+CFX Manager for qPCR data,cfxmanagerforqpcrdata,1,Methodology,CFX Manager for qPCR data
+DNA TOOLs software,dna,1,Methodology,DNA TOOLs software
+NaturePred tool,naturepred,1,Methodology,NaturePred tool
+BWA,bwa,1,Methodology,BWA
+rtracklayer,rtracklayer,1,Methodology,rtracklayer
+GenomicRanges,genomicranges,1,Methodology,GenomicRanges
+circlize,circlize,1,Methodology,circlize
+'Rideogram' R package,rideogramr,1,Methodology,'Rideogram' R package
+Augustus,augustus,1,Methodology,Augustus
+Chimera,chimera,1,Methodology,Chimera
+RAxML,raxml,1,Methodology,RAxML
+M-MLV reverse transcriptase,mmlvreversetranscriptase,1,Methodology,M-MLV reverse transcriptase
+NLSdb,nlsdb,1,Methodology,NLSdb
+XLSTAT,xlstat,1,Methodology,XLSTAT
+PREP-Cp,prepcp,1,Methodology,PREP-Cp
+PREP-Mt,prepmt,1,Methodology,PREP-Mt
+pCysMod,pcysmod,1,Methodology,pCysMod
+EMBOSS Needle,embossneedle,1,Methodology,EMBOSS Needle
+ExPASy. Clustal Omega,expasyclustalomega,1,Methodology,ExPASy. Clustal Omega
+Non-invasive Micro-test Technology  for ion flux measurement,noninvasivemicrotesttechnologyforionfluxmeasurement,1,Methodology,Non-invasive Micro-test Technology  for ion flux measurement
+MapMan,mapman,1,Methodology,MapMan
+Yeast complementation assay,yeastcomplementationassay,1,Methodology,Yeast complementation assay
+BMKCloud,bmkcloud,1,Methodology,BMKCloud
+MEMSAT-SVM in Phyre2,memsatsvminphyre2,1,Methodology,MEMSAT-SVM in Phyre2
+R package DESeq,rdeseq,1,Methodology,R package DESeq
+YASARA homology software,yasarahomology,1,Methodology,YASARA homology software
+Sigma,sigma,1,Methodology,Sigma
+MatGAT software,matgat,1,Methodology,MatGAT software
+Rosettafold,rosettafold,1,Methodology,Rosettafold
+Desmond MD Simulation,desmondmdsimulation,1,Methodology,Desmond MD Simulation
+OrthoVenn2,orthovenn2,1,Methodology,OrthoVenn2
+ComplexHeatmap,complexheatmap,1,Methodology,ComplexHeatmap
+ngLOC,ngloc,1,Methodology,ngLOC
+PAL2NAL & PAML CODEML,pal2nalpamlcodeml,1,Methodology,PAL2NAL & PAML CODEML
+ccNET &,ccnet,1,Methodology,ccNET &
+WOLEPSORT,wolepsort,1,Methodology,WOLEPSORT
+LTR_retriever,ltrretriever,1,Methodology,LTR_retriever
+LTRharvest,ltrharvest,1,Methodology,LTRharvest
+LTR_FINDER,ltrfinder,1,Methodology,LTR_FINDER
+RepeatModeler,repeatmodeler,1,Methodology,RepeatModeler
+RepeatMasker,repeatmasker,1,Methodology,RepeatMasker
+pCAMBIA1300-eGFP vector,pcambia1300egfpvector,1,Methodology,pCAMBIA1300-eGFP vector
+pYES2 vector,pyes2vector,1,Methodology,pYES2 vector
+MITOPROT,mitoprot,1,Methodology,MITOPROT
+SeqKit,seqkit,1,Methodology,SeqKit
+ProTest,protest,1,Methodology,ProTest
+RNA extraction,rnaextraction,1,Methodology,RNA extraction
+Y2H,y2h,1,Methodology,Y2H
+LCA,lca,1,Methodology,LCA
+COLOR MUSE SE,colormusese,1,Methodology,COLOR MUSE SE
+Ggenees,ggenees,1,Methodology,Ggenees
+SplitsTree,splitstree,1,Methodology,SplitsTree
+ExPASy-PROSITE,expasyprosite,1,Methodology,ExPASy-PROSITE
+OrthoMCL,orthomcl,1,Methodology,OrthoMCL
+Compute pl,computepl,1,Methodology,Compute pl
+Vista Tools,vista,1,Methodology,Vista Tools
+MUSCLE algorithm,musclealgorithm,1,Methodology,MUSCLE algorithm
+EMBOSS suite,emboss,1,Methodology,EMBOSS suite
+BEDTools suite,bedtools,1,Methodology,BEDTools suite
+uMelt,umelt,1,Methodology,uMelt
+AmpliFX,amplifx,1,Methodology,AmpliFX
+JCat,jcat,1,Methodology,JCat
+Yeast transactivation assay,yeasttransactivationassay,1,Methodology,Yeast transactivation assay
+Transient overexpression,transientoverexpression,1,Methodology,Transient overexpression
+MCODE,mcode,1,Methodology,MCODE
+CIPRES Science Gateway,cipressciencegateway,1,Methodology,CIPRES Science Gateway
+R223,r223,1,Methodology,R223
+Yeasen,yeasen,1,Methodology,Yeasen
+11202ES03 kits,11202es03kits,1,Methodology,11202ES03 kits
+Perl-based programs,perlbasedprograms,1,Methodology,Perl-based programs
+seqfinder,seqfinder,1,Methodology,seqfinder
+LASTZ-master,lastzmaster,1,Methodology,LASTZ-master
+Ballgown,ballgown,1,Methodology,Ballgown
+FoldIndex,foldindex,2,Motif,FoldIndex
+MAST,mast,2,Motif,MAST
+UGENE,ugene,1,Motif,UGENE
+PlantsP database,plantsp,1,Motif,PlantsP database
+Plant Genome Duplication Database,pgdd,16,Synteny,PGDD | Plant Genome Duplication Database | Plant Genome Duplication database | Plant Genomic Duplication Database
+Circoletto,circoletto,5,Synteny,Circoletto
+Dual Synteny Plotter,dualsyntenyplotter,3,Synteny,Dual Synteny Plotter
+CoGe,coge,2,Synteny,CoGe
+PLAZA,plaza,2,Synteny,PLAZA
+ParaAT,paraat,2,Synteny,ParaAT
+JCVI,jcvi,1,Synteny,JCVI
+GSDS,gsds,187,Visualization,GSDS | GSDS server | GSDS software | Gene Structure Display Server
+iTOL,itol,79,Visualization,ITOL | IToL | iTOL | iTOL online software | iTOL software
+MapChart,mapchart,48,Visualization,MAP chart | Map Chart | MapChart | MapChart software | MapChart tool | Mapchart | Mapchart software
+Circos,circos,47,Visualization,CIRCOS | Circos | Circos program | Circos software | Circos tool
+Cytoscape,cytoscape,45,Visualization,Cytoscape | Cytoscape software | cytoscape
+MapInspect,mapinspect,25,Visualization,MapInsect | MapInspect | MapInspect software | MapInspect tool | Mapinsect software
+EvolView,evolview,23,Visualization,EVOLVIEW | EvolView | EvolView online tool | Evolview | Evolview online tool | Evolview tool
+MG2C,mg2c,22,Visualization,MG2C | MG2C online tool | MG2C tool | MapGene2 Chrome | MapGene2Chrom | MapGene2Chrom Webserver | MapGene2chrom | MapGene2chromosome | MapGene2chromosome web
+MeV,mev,20,Visualization,MEV | MeV | MeV Software | Mev | Mev software
+SignalP,signalp,14,Visualization,SignalP
+PyMOL,pymol,10,Visualization,PyMOL | PyMol | Pymol
+FigTree,figtree,7,Visualization,FIGTREE | FigTree
+MapDraw,mapdraw,7,Visualization,MapDraw | MapDraw software
+ShinyGo,shinygo,7,Visualization,ShinyGO | ShinyGo
+GENEVESTIGATOR,genevestigator,6,Visualization,GENEVESTIGATOR | Genevestigator
+Java TreeView,javatreeview,6,Visualization,Java TreeView | Java-Treeview | Java-Treeview software
+AlphaFold2,alphafold,6,Visualization,AlphaFold | AlphaFold2 | AlphaFold3
+PhenoGram,phenogram,5,Visualization,PhenoGram
+NetPhos,netphos,5,Visualization,NetPhos
+ChiPlot,chiplot,5,Visualization,ChiPlot | Chiplot
+BiNGO,bingo,5,Visualization,BiNGO
+DeepTMHMM,deeptmhmm,4,Visualization,DeepTMHMM
+Wheat Expression Browser,wheatexpressionbrowser,4,Visualization,Wheat Expression Browser
+AraNet,aranet,4,Visualization,AraNet
+CLC Sequence Viewer,clcsequenceviewer,4,Visualization,CLC Sequence Viewer | CLC sequence viewer
+PlantPAN,plantpan,4,Visualization,PlantPAN | PlantPan database
+Jalview,jalview,4,Visualization,Jalview
+Heml,heml,4,Visualization,HemI | Heml | Heml software
+SRplot,srplot,3,Visualization,SRplot
+MARCOIL,marcoil,3,Visualization,MARCOIL
+expVIP,expvip,3,Visualization,expVIP
+Trinity,trinity,3,Visualization,Trinity
+HMMTOP,hmmtop,3,Visualization,HMMTOP
+gProfiler,gprofiler,3,Visualization,g: Profiler | gProfiler
+ClustVis,clustvis,3,Visualization,ClustVis | Clustvis
+HHpred,hhpred,3,Visualization,HHpred
+SyMAP,symap,3,Visualization,SyMAP
+miRBase,mirbase,3,Visualization,miRBase | miRbase
+PopGenIE,popgenie,2,Visualization,PopGenIE
+WGCNA,wgcna,2,Visualization,WGCNA
+ESPript,espript,2,Visualization,ESPript
+PyRx,pyrx,2,Visualization,PyRx
+DIVERGE,diverge,2,Visualization,DIVERGE
+shinyCircos,shinycircos,2,Visualization,ShinyCircos | shinyCircos
+PermutMatrix,permutmatrix,2,Visualization,PermutMatrix
+Map Gene 2 chromosome,mapgenechromosome,2,Visualization,Map Gene 2 chromosome | Map GeneChromosome
+MtGEA,mtgea,2,Visualization,MtGEA
+Predotar,predotar,2,Visualization,Predotar
+MINNOU,minnou,2,Visualization,MINNOU
+TM-align,tmalign,2,Visualization,TM-align
+PROSOII,prosoii,2,Visualization,PROSOII
+Adobe Illustrator,adobeillustrator,2,Visualization,Adobe Illustrator
+TVBOT,tvbot,2,Visualization,TVBOT | tvBOT
+PmiREN,pmiren,2,Visualization,PmiREN
+EFI-EST,efiest,1,Visualization,EFI-EST
+ArkMap,arkmap,1,Visualization,ArkMap
+Heatmapper Plus tool,heatmapperplus,1,Visualization,Heatmapper Plus tool
+Blast viewer,blastviewer,1,Visualization,Blast viewer
+WEB LOGO,logo,1,Visualization,WEB LOGO
+PSVS,psvs,1,Visualization,PSVS
+ERRAT,errat,1,Visualization,ERRAT
+HDOCK,hdock,1,Visualization,HDOCK
+OrthoGNC,orthognc,1,Visualization,OrthoGNC
+CAP3 Sequence Assembly Program,cap3sequenceassembly,1,Visualization,CAP3 Sequence Assembly Program
+RPKM calculation,rpkmcalculation,1,Visualization,RPKM calculation
+Adobe Photoshop,adobephotoshop,1,Visualization,Adobe Photoshop
+FireDock,firedock,1,Visualization,FireDock
+pyDockWEB,pydockweb,1,Visualization,pyDockWEB
+wheat expression database,wheatexpression,1,Visualization,wheat expression database
+GeneMANIA,genemania,1,Visualization,GeneMANIA
+MapGene,mapgene,1,Visualization,MapGene
+MultiExperiment Viewer,multiexperimentviewer,1,Visualization,MultiExperiment Viewer
+BGI WEGO,bgiwego,1,Visualization,BGI WEGO
+SELECTION,selection,1,Visualization,SELECTION
+AutoDock,autodock,1,Visualization,AutoDock
+MODELLER,modeller,1,Visualization,MODELLER
+AutoDockTools,autodocktools,1,Visualization,AutoDockTools
+Clustal T-Coffee,clustaltcoffee,1,Visualization,Clustal T-Coffee
+TIGR Multiple Experiment Viewers,tigrmultipleexperimentviewers,1,Visualization,TIGR Multiple Experiment Viewers
+DNASTAR Lasergene,dnastarlasergene,1,Visualization,DNASTAR Lasergene
+PlantTFDB,planttfdb,1,Visualization,PlantTFDB
+BLAT,blat,1,Visualization,BLAT
+BLOCKS database,blocks,1,Visualization,BLOCKS | BLOCKS database
+NCBI Map Viewer,ncbimapviewer,1,Visualization,NCBI Map Viewer
+COBALT,cobalt,1,Visualization,COBALT
+Map2GeneChrom,map2genechrom,1,Visualization,Map2GeneChrom
+Plant-mSubP,plantmsubp,1,Visualization,Plant-mSubP
+pLoc-mPlant,plocmplant,1,Visualization,pLoc-mPlant
+Ramachandran Plot-Zlab,ramachandranplotzlab,1,Visualization,Ramachandran Plot-Zlab
+PoreWalker,porewalker,1,Visualization,PoreWalker
+Protter,protter,1,Visualization,Protter
+EMBOSS-Pepstats,embosspepstats,1,Visualization,EMBOSS-Pepstats
+Perl script,perlscript,1,Visualization,Perl script
+R package heatmap,rheatmap,1,Visualization,R package heatmap
+wheat expression browser powered by expVIP,wheatexpressionbrowserpoweredbyexpvip,1,Visualization,wheat expression browser powered by expVIP
+DEGseq,degseq,1,Visualization,DEGseq
+R language,rlanguage,1,Visualization,R language
+EvoView,evoview,1,Visualization,EvoView
+online website for chromosome distribution,websiteforchromosomedistribution,1,Visualization,online website for chromosome distribution
+PlantRegMap,plantregmap,1,Visualization,PlantRegMap
+GeneSpring GX,genespringgx,1,Visualization,GeneSpring GX
+Genesis,genesis,1,Visualization,Genesis
+NMPP,nmpp,1,Visualization,NMPP
+Bio-Array Resource,bioarrayresource,1,Visualization,Bio-Array Resource
+Map Inspector,mapinspector,1,Visualization,Map Inspector
+CAPS,caps,1,Visualization,CAPS
+SeaView,seaview,1,Visualization,SeaView
+"R package ""circlize""",rcirclize,1,Visualization,"R package ""circlize"""
+ePlant,eplant,1,Visualization,ePlant
+qTower,qtower,1,Visualization,qTower
+Image-Pro Plus,imageproplus,1,Visualization,Image-Pro Plus
+Gene Structure Display Service,genestructuredisplayservice,1,Visualization,Gene Structure Display Service
+GENVENN,genvenn,1,Visualization,GENVENN
+MapGene2Chromosome2,mapgene2chromosome2,1,Visualization,MapGene2Chromosome2
+Circolotto,circolotto,1,Visualization,Circolotto
+NCBI CDD,ncbicdd,1,Visualization,NCBI CDD
+SOPM,sopm,1,Visualization,SOPM
+Illustrator for Biological Sequences,illustratorforbiologicalsequences,1,Visualization,Illustrator for Biological Sequences
+Evolview platform,evolviewplatform,1,Visualization,Evolview platform
+Ramachandran plot analysis,ramachandranplotanalysis,1,Visualization,Ramachandran plot analysis
+deep site,deepsite,1,Visualization,deep site
+Proteins Plus online analysis tool DoGSeCorer,proteinsplusanalysisdogsecorer,1,Visualization,Proteins Plus online analysis tool DoGSeCorer
+PPDB,ppdb,1,Visualization,PPDB
+PLEXdb,plexdb,1,Visualization,PLEXdb
+eFP Browser,efpbrowser,1,Visualization,eFP Browser
+SAS,sas,1,Visualization,SAS
+PlnTFDB,plntfdb,1,Visualization,PlnTFDB
+mGOASVM,mgoasvm,1,Visualization,mGOASVM
+Inparanoid,inparanoid,1,Visualization,Inparanoid
+TOPCONS,topcons,1,Visualization,TOPCONS
+CViT,cvit,1,Visualization,CViT
+K-ESTimator,kestimator,1,Visualization,K-ESTimator
+WheatExp database,wheatexp,1,Visualization,WheatExp database
+SoyBase browser,soybasebrowser,1,Visualization,SoyBase browser
+NetAffx Analysis Center,netaffxanalysiscenter,1,Visualization,NetAffx Analysis Center
+RNA Seq-Atlas,rnaseqatlas,1,Visualization,RNA Seq-Atlas
+Shigen Map Tool,shigenmap,1,Visualization,Shigen Map Tool
+GASS-WEB,gass,1,Visualization,GASS-WEB
+RAMPAGE,rampage,1,Visualization,RAMPAGE
+Protein Prowler,proteinprowler,1,Visualization,Protein Prowler
+PMRD,pmrd,1,Visualization,PMRD
+Blast2GO PRO,blast2gopro,1,Visualization,Blast2GO PRO
+Circus tool,circus,1,Visualization,Circus tool
+Poplar eFP browser,poplarefpbrowser,1,Visualization,Poplar eFP browser
+PlantGBD,plantgbd,1,Visualization,PlantGBD
+MAGI,magi,1,Visualization,MAGI
+OrthVenn,orthvenn,1,Visualization,OrthVenn
+MA2C,ma2c,1,Visualization,MA2C
+ChimeraX,chimerax,1,Visualization,ChimeraX
+Galaxy Refine,galaxyrefine,1,Visualization,Galaxy Refine
+PrDOS,prdos,1,Visualization,PrDOS
+Gene Denovo analysis platform,genedenovoanalysisplatform,1,Visualization,Gene Denovo analysis platform
+TM-score tool,tmscore,1,Visualization,TM-score tool
+Map Tool,map,1,Visualization,Map Tool
+PmiRExAt,pmirexat,1,Visualization,PmiRExAt
+SPPIDER,sppider,1,Visualization,SPPIDER
+BatchPrimer3 server,batchprimer3,1,Visualization,BatchPrimer3 server
+VMD software,vmd,1,Visualization,VMD software
+NCBI BLAST,ncbiblast,1,Visualization,NCBI BLAST
+TREVIEW,treview,1,Visualization,TREVIEW
+JCDB,jcdb,1,Visualization,JCDB
+iBROWSE,ibrowse,1,Visualization,iBROWSE
+TreeBASE,treebase,1,Visualization,TreeBASE
+SnapGene,snapgene,1,Visualization,SnapGene
+Advanced Circos,advancedcircos,1,Visualization,Advanced Circos
+ClueGO,cluego,1,Visualization,ClueGO
+Knowpulse web-resource,knowpulseresource,1,Visualization,Knowpulse web-resource
+CB-Dock,cbdock,1,Visualization,CB-Dock
+Treeview,treeview,1,Visualization,Treeview
+TrimAl,trimal,1,Visualization,TrimAl
+UFBoot2,ufboot2,1,Visualization,UFBoot2
+PhenGram Online Server,phengram,1,Visualization,PhenGram Online Server
+Tophat-Cufflinks,tophatcufflinks,1,Visualization,Tophat-Cufflinks
+SoluProt,soluprot,1,Visualization,SoluProt
+Miranda,miranda,1,Visualization,Miranda
+PlantDGD,plantdgd,1,Visualization,PlantDGD
