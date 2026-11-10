@@ -1,4 +1,4 @@
-# Genome-Wide PDF Extractor: A local tool for structured data extraction from genome-wide gene family study PDFs
+# Genome-Wide PDF Extractor: A python program for structured data extraction from genome-wide gene family study PDFs
 
 Evidence-backed data extraction from genome-wide gene family identification papers in plants.
 
