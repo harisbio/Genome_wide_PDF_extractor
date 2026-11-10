@@ -1,4 +1,4 @@
-# gene-family-extractor
+# Genome-Wide PDF Extractor: A local tool for structured data extraction from genome-wide gene family study PDFs
 
 Evidence-backed data extraction from genome-wide gene family identification papers in plants.
 
